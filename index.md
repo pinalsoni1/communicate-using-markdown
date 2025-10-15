@@ -6,3 +6,10 @@
 
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+
+```
+text = "This is a code block."
+print(text)
+```
+
